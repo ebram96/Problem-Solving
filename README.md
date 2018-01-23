@@ -4,7 +4,9 @@
 
 This repository will contain some of my work in competitive programming.
 
+My profile on any online judge: ebram96
+
 I will continuously update it.
 
-Lis of contents:
+List of contents:
 - UVa solutions
