@@ -2,6 +2,8 @@
 
 //It's all about what U BELIEVE
 
+### ** The code in the repository can be not the best cauz it contains solutions from my earyly days in programming! **
+
 This repository will contain some of my work in competitive programming.
 
 My profile on any online judge: ebram96
