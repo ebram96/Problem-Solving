@@ -1,4 +1,4 @@
-# Competitive Programming
+# Problem Solving
 
 //It's all about what U BELIEVE
 
